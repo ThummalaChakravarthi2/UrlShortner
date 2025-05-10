@@ -1,0 +1,9 @@
+{"timestamp":"2025-05-10T17:22:01.508+00:00","status":400,"error":"Bad Request","path":"/shorten"}{"timestamp":"2025-05-10T17:22:01.566+00:00","status":400,"error":"Bad Request","path":"/shorten"}<HTML><HEAD>
+<TITLE>Bad Request</TITLE>
+</HEAD><BODY>
+<H1>Bad Request</H1>
+Your browser sent a request that this server could not understand.<P>
+Reference&#32;&#35;7&#46;88f6d517&#46;1746897722&#46;3e293aae
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;7&#46;88f6d517&#46;1746897722&#46;3e293aae</P>
+</BODY>
+</HTML>
